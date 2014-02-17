@@ -6,6 +6,7 @@ from __future__ import (division, print_function, absolute_import,
 from .sampler import *
 from .mh import *
 from .ensemble import *
+from .tensemble import *
 from .ptsampler import *
 from . import utils
 from . import autocorr
